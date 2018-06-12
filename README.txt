@@ -9,7 +9,7 @@ Release Notes
 -------------
 You can obtain the release notes here:
 
-http://wildfly.org/news/2016/01/29/WildFly10-Released/
+https://issues.jboss.org/projects/JBPM?selectedItem=com.atlassian.jira.jira-projects-plugin:release-page&status=released
 
 Getting Started
 ---------------
@@ -17,6 +17,11 @@ jBPM requires JDK 1.8 or later. For information regarding installation
 of the JDK, see http://www.oracle.com/technetwork/java/index.html
 
 
+Reporting problems
+---------------
+
+In case of any issues or problems please file a jira issue in jBPM project
+https://issues.jboss.org/projects/JBPM/summary
 
 Starting a Server
 ----------------------------
